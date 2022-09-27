@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Shadman Ahmed</h1>
 <h3 align="center">Overall Computer Nerd</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AggressiveLeanArcticwolf-size_restricted.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadmanahm3d&label=Profile%20views&color=0e75b6&style=flat" alt="shadmanahm3d" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadmanahm3d" alt="shadmanahm3d" /></a> </p>
