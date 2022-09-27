@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Shadman Ahmed</h1>
 <h3 align="center">Overall Computer Nerd</h3>
-<img align="right" alt="Coding" width="150" src="https://c.tenor.com/0FtD7iZGq1UAAAAS/love.gif">
+<img align="right" alt="Coding" width="230" src="https://c.tenor.com/0FtD7iZGq1UAAAAS/love.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadmanahm3d&label=Profile%20views&color=0e75b6&style=flat" alt="shadmanahm3d" /> </p>
 
 - 🌱 I’m currently learning **Lua , Data structures , ReactJS**
